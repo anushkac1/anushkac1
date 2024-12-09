@@ -1,16 +1,16 @@
-## Hi there 👋
+# Welcome to My Profile! 👋
 
-<!--
-**anushkac1/anushkac1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Anushka! 🚀
 
-Here are some ideas to get you started:
+## About Me
+- 💻 Computer Science Student at SJSU
+- 🤖 Building: LLM-powered APIs and backend solutions
+- 🌱 Learning: FastAPI, React, and Advanced Machine Learning
+- 🎓 Graduating: Spring 2025
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- 🔥 (https://github.com/megaDeathChav/asapp-project): ASAPP Project!
+
+## Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/anushkachokshi/)
+- 📧 [Email Me](anushka.chokshi@sjsu.edu)
